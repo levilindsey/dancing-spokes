@@ -1,4 +1,4 @@
-dancing_spokes
+Dancing Spokes
 ==============
 
 Fun with JavaScript
