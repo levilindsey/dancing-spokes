@@ -2,7 +2,7 @@
 
 #### Fun with JavaScript and dancing sticks of light!
 
-_See this running at [www.jackieandlevi.com/dancing-spokes](http://www.jackieandlevi.com/dancing-spokes)!_
+_See this running at [levi.dev/dancing-spokes](https://levi.dev/dancing-spokes)!_
 
 The color of each spoke is always shifting to another random value. At any given point, the hue, saturation, and lightness components of the spoke colors are each constrained to a random global range. This creates an interesting effect with independently fluctuating colors that almost always seem cohesive.
 
